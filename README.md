@@ -15,7 +15,7 @@ As a computer scientist I've worked across web development, cyber security, data
 * & much more! 
 
 #### 📫 How to reach me
-If you're interested in research collaborations, open source or potential job opportunities please get in touch.
+If you're interested in research collaborations or open source, please get in touch.
 
 [LinkedIn](https://www.linkedin.com/in/gavin-e-6b34b8113/) / [Twitter](https://twitter.com/GavinEdwards_AI)
 
