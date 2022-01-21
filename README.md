@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-As a computer scientist I've worked across web development, cyber security, data science and more. I'm now working on applying AI to the world of biomedicine & leading a graph ML group at AstraZeneca working to transform drug discovery.
+As a computer scientist I've worked across web development, cyber security, data science and more. I'm now applying AI to the world of biomedicine as the engineering lead for a graph machine learning group at AstraZeneca, where we're working to transform drug discovery.
 
 #### 🔭 Currently working on
 * Applied AI
