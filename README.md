@@ -1,17 +1,19 @@
 ### Welcome 👋
 
-As a computer scientist I've worked across web development, cyber security, data science and more. I'm now applying AI to the world of biomedicine in a graph machine learning group at AstraZeneca, where we're working to transform drug discovery.
+As a computer scientist I've worked across machine learning, web development, cyber security, data engineering and more. I'm currently applying AI to transform drug discovery at AstraZeneca.
 
 #### 🔭 Currently working on
 * Applied AI
+* ML research
 * Systems engineering
-* Graph ML research
-* Python tools
+* Python tooling
+* Web applications & APIs
 
 #### 🤔 Research interests
+* Foundation models
 * GNNs
-* Reinforcement Learning
-* Knowledge Graphs
+* Reinforcement learning
+* Knowledge graphs
 * Explainable AI
 * & much more! 
 
@@ -19,20 +21,3 @@ As a computer scientist I've worked across web development, cyber security, data
 If you're interested in research collaborations or open source, please get in touch.
 
 [LinkedIn](https://www.linkedin.com/in/gavin-e-6b34b8113/) / [Twitter](https://twitter.com/GavinEdwards_AI)
-
-<!--TODO Homepage-->
-
-<!--
-**GavEdwards/GavEdwards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
