@@ -1,18 +1,18 @@
 ### Welcome 👋
 
-As a computer scientist I've worked across machine learning, web development, cyber security, data engineering and more. I'm currently applying AI for the public good in the UK Government.
+As a computer scientist I've worked across GenAI, machine learning, web development, cyber security, data engineering and more. I'm currently working on Applied AI at Google DeepMind.
 
 #### 🔭 Currently working on
 * Applied AI
 * ML research
+* Innovation & entrepreneurship
 * Systems engineering
-* Python tooling
 * Web applications & APIs
 
 #### 🤔 Research interests
 * Foundation models
-* GNNs
 * Reinforcement learning
+* GNNs
 * Knowledge graphs
 * Explainable AI
 * & much more! 
